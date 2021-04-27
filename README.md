@@ -5,7 +5,7 @@ Repository hosting the Professional Development work associated with achieving 2
 
 
 ### Lesson Plan:   
-T (4/27/21): CFP Course Work(1 Test)  | 10 CFP Practice Questions 
+T (4/27/21): CFP Course Work(1 Test)  | 10 CFP Practice Questions    
 R (4/29/21): 10 CFA Practice Questions | [WIN Budget Analysis](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fin-pt-04-2020-u-c/tree/master/02-Homework/05-APIs/Instructions)       
 T (5/04/21): CFP Course Work (1 Test) | [WIN Corporate Investment Planner](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fin-pt-04-2020-u-c/tree/master/02-Homework/05-APIs/Instructions)     
 R (5/06/21): 10 CFA Practice Questions | [WIN Financial Reporting Pipeline](https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fin-pt-04-2020-u-c/tree/master/02-Homework/05-APIs/Instructions)    
